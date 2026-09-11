@@ -24,9 +24,9 @@
 
 I'm a **BSc CSIT student** based in Lalitpur, Nepal, currently in my 2nd semester at **Kathford International College**. I'm genuinely curious about how software works under the hood — right now that curiosity is pulling me toward **Machine Learning, Deep Learning, and Artificial Intelligence**, alongside sharpening my skills in **web development**.
 
-I'm still early in my journey, learning fundamentals deeply and building small projects along the way. When I'm not coding, I'm usually experimenting with **video editing** and **graphic design** — I like the overlap between technical and creative work.
+I'm still early in my journey, learning fundamentals deeply and building small projects along the way. When I'm not coding, I'm usually experimenting with **video editing** and **graphic design** - I like the overlap between technical and creative work.
 
-> 🌱 Still learning, still building — one commit at a time.
+> 🌱 Still learning, still building - one commit at a time.
 
 <br/>
 
@@ -81,53 +81,10 @@ I'm still early in my journey, learning fundamentals deeply and building small p
 
 <br/>
 
-## 📌 Featured Projects
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🗂️ Student Management System
-A C-based console application built to practice core programming fundamentals.
-
-- Written in **C**
-- File handling for data persistence
-- Structures for organizing student records
-- Full **CRUD** operations
-
-**[→ View Repository](https://github.com/sandeshmaharjan1)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🎮 Infinity Realms
-An ongoing Minecraft server project focused on backend and community building.
-
-- Minecraft server & project management
-- Website / backend development
-- Community growth & engagement
-
-**[→ View Repository]([PROJECT_URL])**
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-### ✨ More projects coming soon
-_Currently building — check back for updates._
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 ## 📚 Currently Learning
 
 <p align="center">
-🤖 Machine Learning &nbsp;•&nbsp;
-🧠 Deep Learning &nbsp;•&nbsp;
 ⚛️ React &nbsp;•&nbsp;
 🐍 Python &nbsp;•&nbsp;
 🌐 Full-Stack Web Development
