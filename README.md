@@ -11,9 +11,9 @@
 
 <p align="center">
   <a href="https://github.com/sandeshmaharjan1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="[YOUR_LINKEDIN_URL]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="[YOUR_INSTAGRAM_URL]"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sandeshmaharjan1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/sandeshmaharjan1_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:hi@sandeshmaharjan1.com.np"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">📍 Lalitpur, Nepal &nbsp;•&nbsp; 🎓 BSc CSIT, 2nd Semester &nbsp;•&nbsp; Kathford International College</p>
@@ -22,7 +22,7 @@
 
 ## 🧭 About Me
 
-I'm a **BSc CSIT student** based in Lalitpur, Nepal, currently in my 2nd semester at **Kathford International College**. I'm genuinely curious about how software works under the hood — right now that curiosity is pulling me toward **Machine Learning, Deep Learning, and Artificial Intelligence**, alongside sharpening my skills in **web development**.
+I'm a **BSc CSIT student** based in Lalitpur, Nepal, currently in my 2nd semester at **Kathford International College**. I'm genuinely curious about how software works under the hood -right now that curiosity is pulling me toward **Machine Learning, Deep Learning, and Artificial Intelligence**, alongside sharpening my skills in **web development**.
 
 I'm still early in my journey, learning fundamentals deeply and building small projects along the way. When I'm not coding, I'm usually experimenting with **video editing** and **graphic design** - I like the overlap between technical and creative work.
 
@@ -69,11 +69,7 @@ I'm still early in my journey, learning fundamentals deeply and building small p
 </td>
 <td valign="top">
 
-**AI / ML**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine%20Learning-000000?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Deep%20Learning-000000?style=flat-square&logo=pytorch&logoColor=white" />
 
 </td>
 </tr>
